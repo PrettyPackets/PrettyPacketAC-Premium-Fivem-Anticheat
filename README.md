@@ -39,40 +39,33 @@ https://prettypackets.gitbook.io/prettypackets/prettypacketac/welcome-to-prettyp
 |                       | Teleport Detection (2 Methods)                |
 |                       | Hitbox Modification (3 Methods)              |
 |                       | No Recoil Detection                           |
-|                       | Infinite Combat Roll Detection                |
-
+|                       | Infinite Combat Roll Detection                
 | 🎯 Aimbot Protections  | Anti Aim-Assist                               |
 |                       | Anti Soft Aim                                 |
 |                       | Magic Bullet Detection                        |
-
 | 🔫 Weapon Protections | Infinite Ammo Detection (3 Methods)           |
 |                       | Anti Give Safe Weapon                         |
 |                       | Framework-Based Weapon Spawn Detection        |
 |                       | Weapon Blacklist                              |
 |                       | Anti Damage Changer                           |
-
 | 🚗 Vehicle Protections| Anti VDM                                      |
 |                       | Anti Bulletproof Tires                        |
 |                       | Safe Vehicle Spawn Detection                  |
 |                       | Vehicle Blacklist                             |
 |                       | Vehicle Speedboost Detection                  |
-
 | 💥 Explosion Protections | Explosion Spam Detection                  |
 |                          | Explosion Blacklist                      |
 |                          | Silent Explosions Detection              |
 |                          | Invisible Explosions Detection           |
 |                          | Boosted Explosion Damage Detection       |
-
 | ⚙️ Resource Protections | Anti Resource Stopped                       |
 |                         | Anti Client Resource Stopper               |
-
 | 🧠 Cheat Detection     | Mod Menu Detection (2 Dynamic Methods)       |
 |                       | Private Cheat Detection (13 Methods)         |
 |                       | Anti Overlay                                 |
 |                       | Anti NUI DevTools                            |
 |                       | Dictionary-Based Menu Detection              |
 |                       | OCR Menu Detections                          |
-
 | 🧱 Object Protections | Object Blacklist                              |
 | ❤️ Stability System  | Heartbeat System (Anti Tampering)             |
 
