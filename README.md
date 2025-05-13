@@ -22,6 +22,78 @@ https://prettypackets.gitbook.io/prettypackets/prettypacketac/welcome-to-prettyp
 
 ---
 
+## 🔒 PrettyPackets AntiCheat Features
+
+| **Category**          | **Feature**                                   |
+|-----------------------|-----------------------------------------------|
+| 🛡️ Player Protections | Godmode Detection (4 Methods)                 |
+|                       | Infinite Stamina (2 Methods)                  |
+|                       | Invisible Player Detection                    |
+|                       | NoRagDoll Detection                           |
+|                       | NoClip Detection (3 Methods)                  |
+|                       | Spectate Detection                            |
+|                       | Thermal Vision Detection                      |
+|                       | Night Vision Detection                        |
+|                       | Super Jump Detection                          |
+|                       | Freecam Detection (4 Methods)                 |
+|                       | Teleport Detection (2 Methods)                |
+|                       | Hitbox Modification (3 Methods)              |
+|                       | No Recoil Detection                           |
+|                       | Infinite Combat Roll Detection                |
+
+| 🎯 Aimbot Protections  | Anti Aim-Assist                               |
+|                       | Anti Soft Aim                                 |
+|                       | Magic Bullet Detection                        |
+
+| 🔫 Weapon Protections | Infinite Ammo Detection (3 Methods)           |
+|                       | Anti Give Safe Weapon                         |
+|                       | Framework-Based Weapon Spawn Detection        |
+|                       | Weapon Blacklist                              |
+|                       | Anti Damage Changer                           |
+
+| 🚗 Vehicle Protections| Anti VDM                                      |
+|                       | Anti Bulletproof Tires                        |
+|                       | Safe Vehicle Spawn Detection                  |
+|                       | Vehicle Blacklist                             |
+|                       | Vehicle Speedboost Detection                  |
+
+| 💥 Explosion Protections | Explosion Spam Detection                  |
+|                          | Explosion Blacklist                      |
+|                          | Silent Explosions Detection              |
+|                          | Invisible Explosions Detection           |
+|                          | Boosted Explosion Damage Detection       |
+
+| ⚙️ Resource Protections | Anti Resource Stopped                       |
+|                         | Anti Client Resource Stopper               |
+
+| 🧠 Cheat Detection     | Mod Menu Detection (2 Dynamic Methods)       |
+|                       | Private Cheat Detection (13 Methods)         |
+|                       | Anti Overlay                                 |
+|                       | Anti NUI DevTools                            |
+|                       | Dictionary-Based Menu Detection              |
+|                       | OCR Menu Detections                          |
+
+| 🧱 Object Protections | Object Blacklist                              |
+| ❤️ Stability System  | Heartbeat System (Anti Tampering)             |
+
+---
+
+## 🧩 Super Secure Event Protection
+
+| **Feature**                           | **Details**                     |
+|--------------------------------------|---------------------------------|
+| Escrow Resource Compatibility         | ✅ Yes                          |
+| Event Whitelist / Ignore System       | ✅ Included                     |
+| Resource Whitelist / Ignore System    | ✅ Included                     |
+| Performance Optimized                 | ✅ Built for speed & safety     |
+
+---
+
+🛠️ **More features are in development...**  
+Stay tuned and follow the repo for updates! 💖
+
+--
+
 ## 🧃 Secret Server Event Protection 🍓
 
 One thing that makes us **extra special**?  
