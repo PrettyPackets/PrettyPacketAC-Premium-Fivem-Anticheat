@@ -17,25 +17,8 @@ PrettyPackets Premium is **built for modern servers** that need real protection 
 
 ---
 
-## 💥 Current Detections (And Counting!)
-
-We're already slaying the cheat scene with this juicy lineup:  
-
-🔒 **Godmode** — 4 methods  
-🏃‍♀️ **Infinite Stamina** — 2 methods  
-👻 **Anti-Invisibility**  
-🧸 **No-Ragdoll**  
-🛸 **NoClip** — 3 detection types  
-🌡️ **Thermal Vision**  
-🌙 **Night Vision**  
-🦘 **Super Jump**  
-🎥 **Freecam** — 4 sneaky methods  
-🗺️ **Teleport** — 2 clever checks  
-🔫 **Infinite Ammo** — 2 layers of logic  
-🎯 **Hitbox Modification**
-
-And yes, we're **still adding more**. 💅  
-Stay tuned — the changelog’s gonna be glowing ✨
+You can check out our documentation here
+https://prettypackets.gitbook.io/prettypackets/prettypacketac/welcome-to-prettypacketac
 
 ---
 
