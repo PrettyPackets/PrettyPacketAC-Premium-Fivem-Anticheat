@@ -71,7 +71,13 @@ https://prettypackets.gitbook.io/prettypackets/prettypacketac/welcome-to-prettyp
 
 ---
 
-## 🧩 Super Secure Event Protection
+## 🧃 Secret Server Event Protection 🍓
+
+One thing that makes us **extra special**?  
+We’ve got a **private in-house system** that protects your **server events** — no more event spoofing or trigger spam.
+
+💖 No editing your event code. Just plug and protect.
+
 
 | **Feature**                           | **Details**                     |
 |--------------------------------------|---------------------------------|
@@ -85,15 +91,6 @@ https://prettypackets.gitbook.io/prettypackets/prettypacketac/welcome-to-prettyp
 🛠️ **More features are in development...**  
 Stay tuned and follow the repo for updates! 💖
 
---
-
-## 🧃 Secret Server Event Protection 🍓
-
-One thing that makes us **extra special**?  
-We’ve got a **private in-house system** that protects your **server events** — no more event spoofing or trigger spam.
-
-It’s built right in, doesn’t need extra setup, and works like a charm.  
-💖 No editing your event code. Just plug and protect.
 
 ---
 
